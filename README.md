@@ -17,8 +17,8 @@ heights to centimeters in a separate list using:
 2) List comprehensions
 
 Code File:-
-ICP1  ICP1-PB1.py,ICP1-PB2.py,ICP1-PB3.py Document- ICP_1_Spring24.DOCX
-ICP2  ICP2-PB1.py,ICP2-PB2.py,ICP2-PB3.py Document- ICP_1_Spring24.DOCX
+ICP1  ICP1-PB1.py,ICP1-PB2.py,ICP1-PB3.py Document- ICP_1_Spring24.pdf
+ICP2  ICP2-PB1.py,ICP2-PB2.py,ICP2-PB3.py Document- ICP2-Documentation-2.pdf
 
 Vedio link:- 
 ICP1-https://github.com/BillaBhavana7/neuralN/blob/main/HW1.mp4
