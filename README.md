@@ -1,7 +1,7 @@
 Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-1
 Name: Billa Bhavana ID: 700756590
 
-Files:-
+FILES:-
 
 ICP1-PB1 
 Delete at least 2 characters, reverse the resultant string
@@ -40,7 +40,30 @@ Then reshape the array to 4 by 5
 Then replace the max in each row by 0 (axis=1)
 (you can NOT implement it via for loop)
 
-Code File:-
+ICP4_PB1
+1. Data Manipulation
+a. Read the provided CSV file ‘data.csv’.
+b. https://drive.google.com/drive/folders/1h8C3mLsso-R-sIOLsvoYwPLzy2fJ4IOF?usp=sharing
+c. Show the basic statistical description about the data.
+d. Check if the data has null values.
+i. Replace the null values with the mean
+e. Select at least two columns and aggregate the data using: min, max, count, mean.
+f. Filter the dataframe to select the rows with calories values between 500 and 1000.
+g. Filter the dataframe to select the rows with calories values > 500 and pulse < 100.
+h. Create a new “df_modified” dataframe that contains all the columns from df except for
+“Maxpulse”.
+i. Delete the “Maxpulse” column from the main df dataframe
+j. Convert the datatype of Calories column to int datatype.
+k. Using pandas create a scatter plot for the two columns (Duration and Calories).
+ICP4-PB2
+2. Linear Regression
+a) Import the given “Salary_Data.csv”
+b) Split the data in train_test partitions, such that 1/3 of the data is reserved as test subset.
+c) Train and predict the model.
+d) Calculate the mean_squared error
+e) Visualize both train and test data using scatter plot.
+
+CODE FILE:-
 
 ICP1  
 ICP1-PB1.py,ICP1-PB2.py,ICP1-PB3.py Document- ICP_1_Spring24.pdf
@@ -48,6 +71,8 @@ ICP2
 ICP2-PB1.py,ICP2-PB2.py,ICP2-PB3.py Document- ICP2-Documentation-2.pdf
 ICP3
 ICP3-PB1.py,ICP3-PB2.py Document- ICP3-Documentation.pdf
+ICP4
+nndl_assignment4_spring.ipynb- NNDL_Assignment_4_Spring.pdf
 
 
 Vedio link:- 
