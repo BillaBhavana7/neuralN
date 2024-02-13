@@ -1,4 +1,4 @@
-Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignment-1
+Spring 2024: CS5720: Neural Network Deep Learning
 Name: Billa Bhavana ID: 700756590
 
 FILES:-
@@ -63,6 +63,11 @@ c) Train and predict the model.
 d) Calculate the mean_squared error
 e) Visualize both train and test data using scatter plot.
 
+ICP5-PB1
+Implementing Naive Bayes method using scikit-learn library
+ICP5-PB2
+Implementing Linear SVM method using scikit-learn library Code File
+
 CODE FILE:-
 
 ICP1  
@@ -73,6 +78,8 @@ ICP3
 ICP3-PB1.py,ICP3-PB2.py Document- ICP3-Documentation.pdf
 ICP4
 nndl_assignment4_spring.ipynb- NNDL_Assignment_4_Spring.pdf
+ICP5
+ICP5.ipynb Document ICP5-NNDL_Assignment_4_Spring-2.pdf
 
 
 Vedio link:- 
