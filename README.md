@@ -80,6 +80,8 @@ ICP4
 nndl_assignment4_spring.ipynb- NNDL_Assignment_4_Spring.pdf
 ICP5
 ICP5.ipynb Document ICP5-NNDL_Assignment_4_Spring-2.pdf
+ICP6
+ICP6.ipynb Neural Networks_Assignment_6.pdf
 
 
 Vedio link:- 
