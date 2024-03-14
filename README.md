@@ -82,6 +82,8 @@ ICP5
 ICP5.ipynb Document ICP5-NNDL_Assignment_4_Spring-2.pdf
 ICP6
 ICP6.ipynb Neural Networks_Assignment_6.pdf
+ICP7
+ICP7.ipynb ICP7_NN_700756590.pdf
 
 
 Vedio link:- 
