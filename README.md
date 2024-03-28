@@ -86,6 +86,8 @@ ICP7
 ICP7.ipynb ICP7_NN_700756590.pdf
 ICP8
 Neural_ICP8.ipynb Neural_ICP8-700756590.pdf
+ICP10
+ICP10.ipynb icp10_700756590.pdf 
 
 
 Vedio link:- 
